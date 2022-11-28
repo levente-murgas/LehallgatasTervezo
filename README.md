@@ -11,5 +11,5 @@
 
 - A lehallgatók interaktívan áthelyezhetők. A bal egérgomb lenyomására, a kurzor alatt látható 3D ponthoz megkeressük a legközelebbi lehallgatót, annak pozícióját a megtalált pontra állítjuk, az irányát pedig a felület normálvektorára.
 
-![alt text](https://github.com/levente-murgas/grafika1/blob/main/res/img.png?raw=true)
+![alt text](https://github.com/levente-murgas/LehallgatasTervezo/blob/main/res/img.png?raw=true)
 
